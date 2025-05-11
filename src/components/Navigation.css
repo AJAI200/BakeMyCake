@@ -1,0 +1,33 @@
+/* components/Navigation.css */
+.navigation {
+  display: flex;
+  background-color: #f8f8f8;
+  padding: 0.5rem 2rem;
+  gap: 1rem;
+  border-bottom: 1px solid #eee;
+  overflow-x: auto;
+  position: relative; 
+}
+
+.nav-item {
+  padding: 0.5rem 1rem;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #666;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.nav-item:hover {
+  color: #8B4513;
+}
+
+.nav-item.active {
+  color: #8B4513;
+  background-color: #E3E3C3 ;
+  border-radius: 500px;
+}
+
