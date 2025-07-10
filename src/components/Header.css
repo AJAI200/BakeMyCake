@@ -9,9 +9,9 @@
 }
 
 .logo h1 {
-  color: #8b4513;
-  font-size: 55rem;
-  margin-bottom: 55rem;
+  color: #8B4513;
+  font-size: 1.8rem;
+  margin-bottom: 0.2rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -34,14 +34,14 @@
 }
 
 .search-input:focus {
-  border-color: #8b4513;
+  border-color: #8B4513;
 }
 
 .clear-button {
   background: none;
   border: none;
   font-size: 1.2rem;
-  color: #8b4513;
+  color: #8B4513;
   cursor: pointer;
   margin-left: 0.5rem;
   transition: color 0.3s ease;
