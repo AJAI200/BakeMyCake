@@ -6,7 +6,7 @@
   gap: 1rem;
   border-bottom: 1px solid #eee;
   overflow-x: auto;
-  position: relative; 
+  position: relative;
 }
 
 .nav-item {
@@ -22,12 +22,13 @@
 }
 
 .nav-item:hover {
-  color: #8B4513;
+  background-color : #dedeb7;
+  border-radius: 2rem 3rem;
+  color: #8b4513
 }
 
 .nav-item.active {
-  color: #8B4513;
-  background-color: #E3E3C3 ;
+  background-color: #8b4513;
   border-radius: 500px;
+  color: #fff;
 }
-

@@ -26,13 +26,13 @@ const Footer = () => {
         </div>
         <div className="footer-section footer-icons">
           <a href="https://facebook.com" className="footer-icon" target="_blank" rel="noopener noreferrer">
-            <i className="fab fa-facebook-f"></i>
+            <i className=" correct fab fa-facebook-f"></i>
           </a>
           <a href="https://twitter.com" className="footer-icon" target="_blank" rel="noopener noreferrer">
-            <i className="fab fa-twitter"></i>
+            <i className=" correct fab fa-twitter "></i>
           </a>
           <a href="https://instagram.com" className="footer-icon" target="_blank" rel="noopener noreferrer">
-            <i className="fab fa-instagram"></i>
+            <i className=" correct fab fa-instagram"></i>
           </a>
         </div>
       </div>
